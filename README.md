@@ -23,7 +23,7 @@ This Rmarkdown presentation is about Iris dataset from the datasets package. Her
 2. Iris Versicolour
 3. Iris Virginica
    
-1. The reproducible pitch presentation is available in the following link:
+## The reproducible pitch presentation is available in the following link:
 
 https://lakshmikovvuri.shinyapps.io/DataProducts-finalProject/
 
